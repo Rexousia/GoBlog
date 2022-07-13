@@ -114,11 +114,11 @@ unsafe = true
 home = ["HTML", "RSS", "JSON"]
 [params]
 address = "9567 Turner Trace Apt. BC C3G8A4"
-author = "Themefisher"
+author = "Colton Rogers"
 contact_form_action = "#"
 custom_script = ""
-description = "This is meta description"
-email = "hello@editor.com"
+description = "Aspiring programmer and entrepreneur "
+email = "Colton@GoAlgo.dev"
 favicon = "images/logo-sm.svg"
 logo = "images/logo.svg"
 logo_height = "26px"
