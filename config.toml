@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://demo.gethugothemes.com/editor/"
+baseURL = "/"
 title = "Editor - Personal Blog Hugo Theme"
 theme = "editor-hugo"
 # post pagination
