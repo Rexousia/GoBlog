@@ -7,31 +7,31 @@ sections:
 - type: heading
   label: Single Pages
 - type: directory
-  path: exampleSite/content/english
+  path: content/english
   label: Pages (en)
   create: all
   match: "*"
 - type: directory
-  path: exampleSite/content/french
+  path: content/french
   label: Pages (fr)
   create: all
   match: "*"
 - type: heading
   label: Blog Post
 - type: directory
-  path: exampleSite/content/english/blogs
+  path: content/english/blogs
   label: Blogs (en)
   create: all
   match: "**/*"
 - type: directory
-  path: exampleSite/content/french/blogs
+  path: content/french/blogs
   label: Blogs (fr)
   create: all
   match: "**/*"
 - type: heading
   label: Configuration
 - type: document
-  path: exampleSite/config.toml
+  path: config.toml
   label: Configuration
 upload_dir: exampleSite/static/images
 public_path: "/images"
