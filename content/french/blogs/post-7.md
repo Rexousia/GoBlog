@@ -1,14 +1,16 @@
 ---
-title: "It's all about beginner's secret."
-description: "meta description"
+title: It's all about beginner's secret.
+description: meta description
 images:
-  - "images/post/07.jpg"
-date: 2021-02-04T16:56:47+06:00
-draft: false
-tags: ["Startup"]
-categories: ["LifeStyle"]
----
+- images/post/07.jpg
+date: 2021-02-04T16:56:47.000+06:00
+tags:
+- Startup
+categories:
+- LifeStyle
+draft: true
 
+---
 Photography is an invaluable medium that allows us to capture the incandescent beauty of the outside world, something many of us haven’t seen in... well, a hot minute. Global pandemics will do that.
 
 But that certainly doesn’t mean that beautiful photos can’t be taken indoors, out of windows, or in secluded outdoor locations (safely socially distanced, of course). And perhaps now is as good a time as any to gain some helpful tips on how to do just that by taking an online photography course.
