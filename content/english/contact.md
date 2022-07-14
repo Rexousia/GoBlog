@@ -1,7 +1,6 @@
 ---
-title: "Say Hello"
-layout: "contact"
-draft: false
----
+title: Say Hello
+layout: contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labor.
+---
+I am always looking to expand my network and add value wherever i can. If you think i can do this in anyway please feel free to reach out to me!
