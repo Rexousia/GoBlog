@@ -178,7 +178,7 @@ icon_font = "Font Awesome 5 Free"
 light = "#a8aab2"
 primary_color = "#a9ebff"
 primary_font = "Lora:wght@500;600"
-secondary_color = "#a9ebff"
+secondary_color = "#a9ebef"
 secondary_font = "Work Sans:wght@400;500;600"
 white = "#ffffff"
 [params.widgets]
