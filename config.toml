@@ -25,7 +25,7 @@ name = "Blogs"
 url = "blogs/"
 weight = 3
 [[Languages.en.menu.main]]
-name = "Porfolio"
+name = "Portfolio"
 url = "/portfolio"
 weight = "4"
 [[Languages.en.menu.main]]
