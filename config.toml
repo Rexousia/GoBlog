@@ -184,6 +184,10 @@ white = "#ffffff"
 [params.widgets]
 sidebar = ["about-me", "recent-post", "categories", "tags"]
 [[params.social]]
+icon = "fab fa-linkedin"
+link = ""
+title = "LinkedIn"
+[[params.social]]
 icon = "fab fa-facebook"
 link = "https://facebook.com"
 title = "Facebook"
