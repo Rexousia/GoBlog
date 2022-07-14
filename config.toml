@@ -8,7 +8,7 @@ theme = "editor-hugo"
 title = "GoAlgo Blog"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy;2021 <br> Designed &amp; Developed by [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Copyright &copy;2022 GoAlgo"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
