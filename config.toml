@@ -188,18 +188,6 @@ icon = "fab fa-linkedin"
 link = "https://www.linkedin.com/in/coltrogers/"
 title = "LinkedIn"
 [[params.social]]
-icon = "fab fa-facebook"
-link = "https://facebook.com"
-title = "Facebook"
-[[params.social]]
-icon = "fab fa-twitter"
-link = "https://twitter.com"
-title = "Twitter"
-[[params.social]]
-icon = "fab fa-instagram"
-link = "https://instagram.com"
-title = "Instagram"
-[[params.social]]
 icon = "fab fa-github"
 link = "https://github.com/Rexousia"
 title = "Github"
