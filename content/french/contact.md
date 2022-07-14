@@ -1,7 +1,7 @@
 ---
-title: "Dis Bonjour"
-layout: "contact"
-draft: false
----
+title: Dis Bonjour
+layout: contact
+draft: true
 
+---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labor.
