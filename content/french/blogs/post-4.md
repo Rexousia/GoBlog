@@ -1,14 +1,15 @@
 ---
-title: "Everything you need to know about a baseball."
-description: "meta description"
+title: Everything you need to know about a baseball.
+description: meta description
 images:
-  - "images/post/04.jpg"
-date: 2021-01-25T16:56:47+06:00
-draft: false
-tags: ["Baseball"]
-categories: ["Sports"]
----
+- images/post/04.jpg
+date: 2021-01-25T16:56:47.000+06:00
+tags:
+- Baseball
+categories:
+- Sports
 
+---
 A banana is an elongated, edible fruit – botanically a berry – produced by several kinds of large herbaceous flowering plants in the genus Musa. In some countries, bananas used for cooking may be called "plantains", distinguishing them from dessert bananas.
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
