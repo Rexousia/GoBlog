@@ -25,6 +25,10 @@ name = "Blogs"
 url = "blogs/"
 weight = 3
 [[Languages.en.menu.main]]
+name = "Porfolio"
+url = "/portfolio"
+weight = "4"
+[[Languages.en.menu.main]]
 hasChildren = true
 name = "Pages"
 weight = 4
