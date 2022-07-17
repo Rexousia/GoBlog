@@ -3,13 +3,13 @@ title: About Me
 date: 2020-09-24T11:07:10.000+06:00
 description: this is meta description
 layout: about
-name: Matthew Atkins
-email: editor@domain.com
+name: Colton Rogers
+email: Colton@GoAlgo.dev
 image: images/author.png
 summary: Aspiring programmer who currently is an entrepreneur that runs a business
   in insurance and avidly into self-discovery.
 partners:
-  enable: true
+  enable: false
   title: My Contents also published <br> on these websites
   partner_logos:
   - images/partners/logo-1.png
