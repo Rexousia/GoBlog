@@ -128,8 +128,8 @@ logo = "images/goalgo.svg"
 logo_height = "39px"
 logo_rotate = true
 logo_text = "GoAlgo"
-mainSections = ["blogs"]
-mobile = "+211234565523"
+mainSections = ["self-help", "portfolio", "blogs"]
+mobile = "+1(360)610-9932"
 search = true
 [params.cookies]
 enable = false
