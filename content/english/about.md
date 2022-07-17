@@ -6,7 +6,7 @@ layout: about
 name: Colton Rogers
 email: Colton@GoAlgo.dev
 image: images/author.png
-summary: Aspiring programmer who currently is an entrepreneur that runs a business
+summary: Aspiring programmer who is currently an entrepreneur that runs a business
   in insurance and avidly into self-discovery.
 partners:
   enable: false
