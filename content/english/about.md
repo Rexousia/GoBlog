@@ -23,6 +23,6 @@ partners:
   - images/partners/logo-9.png
 
 ---
-Cume tale recusabo periculis tee. Deleniti perferendis necessitatibus reprehenderit ipsam explicabo. Modi temporibus nemo dolor laudantium aut possimus nostrum. Alias deserunt similique, eum quas molestias ducimus natus accusantium ratione.
+My knowledge and interests span from computer science to business and self-help. I find my joy in learning about new things through application, not just concepts. 
 
-Eaque cum sed corporis, sequi cumque a iure alias perferendis necessitatibus deserunt similique! Quia eaque quo rerum non qui explicabo earum nobis numquam maiores uidem sequi cumque a iure.
+Most sustainable change is found through the concept of identity. For example, if the i want to learn programming, then the goal should be to be a programmer. As we know being a programmer means staying up to date on the latest tools in technology so that we can meticulously walk back a plan from the end goal, satisfying our own requirements and the customer. If anything i said resonates with you, and you have questions, or simply just want to connect feel free to send me an email. Hopefully you enjoy my content as much as i enjoy creating it.
