@@ -6,7 +6,7 @@ layout: about
 name: Matthew Atkins
 email: editor@domain.com
 image: images/author.png
-summary: An aspiring programmer who currently is an entrepreneur that runs a business
+summary: Aspiring programmer who currently is an entrepreneur that runs a business
   in insurance and avidly into self-discovery.
 partners:
   enable: true
