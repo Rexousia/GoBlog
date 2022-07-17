@@ -117,7 +117,7 @@ unsafe = true
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
-address = "9567 Turner Trace Apt. BC C3G8A4"
+address = ""
 author = "Colton Rogers"
 contact_form_action = "#"
 custom_script = ""
