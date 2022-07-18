@@ -1,7 +1,7 @@
 ---
 title: About Me
-date: 2020-09-24T11:07:10.000+06:00
-description: this is meta description
+date: 2022-07-18T02:00:00+00:00
+description: 'About me '
 layout: about
 name: Colton Rogers
 email: Colton@GoAlgo.dev
