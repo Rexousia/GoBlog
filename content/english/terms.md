@@ -1,6 +1,6 @@
 ---
 title: Terms & Conditions
-description: Terms & Conditions
+description: terms & conditions
 
 ---
 #### 1. Terms
