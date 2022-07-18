@@ -23,6 +23,6 @@ partners:
   - images/partners/logo-9.png
 
 ---
-My knowledge and interests span from computer science to business and self-help. I find my joy in learning about new things through application, not just concepts. 
+My knowledge and interests span from computer science to business and self-help. I find my joy in learning about new things through application, not just concepts.
 
-Most sustainable change is found through the concept of identity. For example, if the i want to learn programming, then the goal should be to be a programmer. As we know being a programmer means staying up to date on the latest tools in technology so that we can meticulously walk back a plan from the end goal, satisfying our own requirements and the customer. If anything i said resonates with you, and you have questions, or simply just want to connect feel free to send me an email. Hopefully you enjoy my content as much as i enjoy creating it.
+Most sustainable change is found through the concept of identity. For example, if i want to learn programming, then the goal should be to be a programmer not to learn programming. As we know being a programmer means staying up to date on the latest tools in technology so that we can meticulously and efficiently walk back a plan from the end goal to satisfy the requirements of the project. If anything i said resonates with you, and you have questions, or simply just want to connect feel free to send me an email. Hopefully you enjoy my content as much as i enjoy creating it.
