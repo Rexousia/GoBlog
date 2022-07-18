@@ -29,12 +29,12 @@ hasChildren = true
 name = "Blogs"
 weight = 4
 [[Languages.en.menu.main]]
-name = "Go Blogs"
+name = "Golang Blog"
 parent = "Blogs"
 url = "blogs/"
 weight = 1
 [[Languages.en.menu.main]]
-name = "Self-help"
+name = "Self-help Blog"
 parent = "Blogs"
 url = "/self-discovery"
 weight = 2
