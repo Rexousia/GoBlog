@@ -13,10 +13,6 @@ languageCode = "en-us"
 languageName = "En"
 weight = 1
 [[Languages.en.menu.main]]
-name = "Self-help"
-url = "/self-discovery"
-weight = "5"
-[[Languages.en.menu.main]]
 name = "Home"
 url = ""
 weight = 1
@@ -32,6 +28,10 @@ weight = 3
 name = "Portfolio"
 url = "/portfolio"
 weight = "4"
+[[Languages.en.menu.main]]
+name = "Self-help"
+url = "/self-discovery"
+weight = "5"
 [[Languages.en.menu.main]]
 hasChildren = true
 name = "Pages"
