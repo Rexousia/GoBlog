@@ -64,7 +64,7 @@ weight = 5
 [[Languages.en.menu.main]]
 name = "Contact"
 url = "contact/"
-weight = 5
+weight = "6"
 [Languages.fr]
 contentDir = "content/french"
 copyright = "Droits d'auteur &copy;2021 <br> Conçu et Développé par [Gethugothemes](https://gethugothemes.com/)"
