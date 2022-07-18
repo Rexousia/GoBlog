@@ -1,6 +1,6 @@
 ---
 title: Terms & Conditions
-description: this is meta description
+description: Terms & Conditions
 
 ---
 #### 1. Terms
