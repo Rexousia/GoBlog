@@ -21,50 +21,43 @@ name = "About"
 url = "about/"
 weight = 2
 [[Languages.en.menu.main]]
-name = "Blogs"
-url = "blogs/"
-weight = 3
-[[Languages.en.menu.main]]
 name = "Portfolio"
 url = "/portfolio"
-weight = "4"
+weight = "3"
+[[Languages.en.menu.main]]
+hasChildren = true
+name = "Blogs"
+weight = 4
+[[Languages.en.menu.main]]
+name = "Go Blogs"
+parent = "Blogs"
+url = "blogs/"
+weight = 1
 [[Languages.en.menu.main]]
 name = "Self-help"
 url = "/self-discovery"
-weight = "5"
-[[Languages.en.menu.main]]
-hasChildren = true
-name = "Pages"
-weight = 4
-[[Languages.en.menu.main]]
-name = "Tag"
-parent = "Pages"
-url = "tags/artwork/"
-weight = 1
-[[Languages.en.menu.main]]
-name = "Category"
-parent = "Pages"
-url = "categories/lifestyle/"
 weight = 2
 [[Languages.en.menu.main]]
 name = "Elements"
 parent = "Pages"
 url = "elements/"
 weight = 3
+
 [[Languages.en.menu.main]]
 name = "Terms & Conditions"
-parent = "Pages"
 url = "terms/"
 weight = 4
+
 [[Languages.en.menu.main]]
 name = "Privacy"
-parent = "Pages"
 url = "privacy/"
 weight = 5
+
 [[Languages.en.menu.main]]
 name = "Contact"
 url = "contact/"
 weight = "6"
+
 [Languages.fr]
 contentDir = "content/french"
 copyright = "Droits d'auteur &copy;2021 <br> Conçu et Développé par [Gethugothemes](https://gethugothemes.com/)"
