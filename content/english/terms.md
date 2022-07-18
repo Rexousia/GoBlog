@@ -1,30 +1,57 @@
 ---
-title: "Terms & Conditions"
-description: "this is meta description"
-draft: false
+title: Terms & Conditions
+description: this is meta description
+
 ---
+#### 1. Terms
 
+By accessing the website at [https://GoAlgo.dev/](https://GoAlgo.dev/ "GoAlgo"), you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in this website are protected by applicable copyright and trademark law.
 
-#### Responsibility of Contributors
+***
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed 
+#### 2. Disclaimer
 
-pretium, aliquam sit. Praesent elementum magna amet, tincidunt eros, nibh in leo. Malesuada purus, lacus, at aliquam suspendisse tempus. Quis tempus amet, velit nascetur sollicitudin. At sollicitudin eget amet in. Eu velit nascetur sollicitudin erhdfvssfvrgss eget viverra nec elementum. Lacus, facilisis tristique lectus in.
+* The materials on GoAlgo's website are provided on an 'as is' basis. GoAlgo makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.
+* Further, GoAlgo does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its website or otherwise relating to such materials or on any sites linked to this site.
 
-#### Gathering of Personal Information
+***
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+#### 3. Limitations
 
-#### Protection of  Personal- Information
+In no event shall GoAlgo or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the materials on GoAlgo's website, even if GoAlgo or a GoAlgo authorized representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. 
+***
 
-Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat 
+#### 4. Accuracy of materials
 
-#### Privacy Policy Changes
+The materials appearing on GoAlgo website could include technical, typographical, or photographic errors. GoAlgo does not warrant that any of the materials on its website are accurate, complete or current. GoAlgo may make changes to the materials contained on its website at any time without notice. However GoAlgo does not make any commitment to update the materials.
 
-1. Sll the Themefisher items are designed to be with the latest , We check all
-2. comments that threaten or harm the reputation of any person or organization
-3. personal information including, but  limited to, email addresses, telephone numbers
-4. Any Update come in The technology  Customer will get automatic  Notification.
+***
+
+#### 5. Links
+
+* GoAlgo has not reviewed all of the sites linked to its website and is not responsible for the contents of any such linked site. The inclusion of any link does not imply endorsement by GoAlgo of the site. Use of any such linked website is at the user's own risk.
+
+***
+
+#### 6. Modifications
+
+* GoAlgo may revise these terms of service for its website at any time without notice. By using this website you are agreeing to be bound by the then current version of these terms of service.
+
+***
+
+#### 7. Governing Law
+
+These terms and conditions are governed by and construed in accordance with the laws of Seattle, WA and you irrevocably submit to the exclusive jurisdiction of the courts in that State or location.
+
+***
+
+#### 8. Youtube Terms Of Service
+
+[View the Youtube Terms of Service](https://www.youtube.com/static?template=terms)
+
+***
+
+#### 9. Google Privacy Policy
+
+[View the Google Privacy Policy](https://policies.google.com/privacy?hl=en-US)
