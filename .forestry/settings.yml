@@ -6,6 +6,11 @@ webhook_url:
 sections:
 - type: heading
   label: Project Post
+- type: directory
+  path: content\english\portfolio
+  label: Projects (en)
+  create: all
+  match: "**/*"
 - type: heading
   label: Single Pages
 - type: directory
