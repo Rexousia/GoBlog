@@ -35,6 +35,7 @@ url = "blogs/"
 weight = 1
 [[Languages.en.menu.main]]
 name = "Self-help"
+parent = "Blogs"
 url = "/self-discovery"
 weight = 2
 [[Languages.en.menu.main]]
