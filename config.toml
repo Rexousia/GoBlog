@@ -40,7 +40,7 @@ url = "/self-discovery"
 weight = 2
 [[Languages.en.menu.main]]
 name = "Elements"
-parent = "Pages"
+parent = "Blogs"
 url = "elements/"
 weight = 3
 
