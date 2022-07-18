@@ -78,7 +78,7 @@ url = "blogs/"
 weight = 3
 [[Languages.fr.menu.main]]
 hasChildren = true
-name = "Pages"
+name = "Blogs"
 weight = 4
 [[Languages.fr.menu.main]]
 name = "Mots clés"
