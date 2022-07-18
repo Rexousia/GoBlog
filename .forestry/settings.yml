@@ -5,9 +5,16 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: heading
+  label: self-discovery
+- type: directory
+  path: content/english/self-discovery
+  label: Self Discovery Posts (en)
+  create: all
+  match: "**/*"
+- type: heading
   label: Project Post
 - type: directory
-  path: content\english\portfolio
+  path: content/english/portfolio
   label: Projects (en)
   create: all
   match: "**/*"
